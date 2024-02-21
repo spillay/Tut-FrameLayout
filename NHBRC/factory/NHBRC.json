@@ -1,0 +1,9 @@
+{
+	"name": "NHBRC",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2d882fcb-4dbd-42ac-9081-d58dc016aa44",
+		"tenantId": "05bcaf67-fe42-4b0d-9ecd-032ef36c3a20"
+	}
+}
